@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1515363483 source:c:\users\elena matei\desktop\contactlist\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	<stdlib.h>
+
+1516046269 source:c:\users\andrei\desktop\contactlist\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	<stdlib.h>
+
+1516028150 source:d:\desktop\contactlist 2.0\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	<stdlib.h>
+
